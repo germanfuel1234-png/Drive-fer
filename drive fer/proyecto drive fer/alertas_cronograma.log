@@ -1,0 +1,341 @@
+18/07/2026 10:08:43 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 18/07/2026 10:08:43
+======================================================================
+Status: FAILED
+Error: <HttpError 403 when requesting https://sheets.googleapis.com/v4/spreadsheets?alt=json returned "Google Sheets API has not been used in project 882169865758 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=882169865758 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.". Details: "[{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'SERVICE_DISABLED', 'domain': 'googleapis.com', 'metadata': {'consumer': 'projects/882169865758', 'activationUrl': 'https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=882169865758', 'serviceTitle': 'Google Sheets API', 'containerInfo': '882169865758', 'service': 'sheets.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'Google Sheets API has not been used in project 882169865758 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=882169865758 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.'}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Google developers console API activation', 'url': 'https://console.developers.google.com/apis/api/sheets.googleapis.com/overview?project=882169865758'}]}]">
+======================================================================
+
+18/07/2026 10:14:42 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 18/07/2026 10:14:42
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:14:46 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:14:46
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:16:16 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:16:16
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:22:43 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:22:43
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:28:07 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:28:07
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:28:49 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:28:49
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:29:55 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:29:55
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:30:34 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:30:34
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:31:02 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:31:02
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:32:18 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:32:18
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:39:17 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:39:17
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:39:33 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:39:33
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:40:24 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:40:24
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:44:12 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:44:12
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 1901 - Shell Argentina - Dock Sud - Depto: Ingenieria - Proyecto vencido hace 32 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 1903 - Techint - Siderar San Nicolás - Depto: Ingenieria - Proyecto vencido hace 42 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 1905 - ArcelorMittal - Villa Constitución - Depto: Ingenieria - Proyecto vencido hace 21 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 1907 - Cargill - Bahía Blanca - Depto: Ingenieria - Proyecto vencido hace 78 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 1909 - Loma Negra - Barker - Depto: Ingenieria - Proyecto vencido hace 14 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 1911 - Toyota Argentina - Zárate - Depto: Ingenieria - Proyecto vencido hace 51 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 1913 - General Motors - Alvear - Depto: Ingenieria - Proyecto vencido hace 17 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 1884 - SEGURIDAD S.R.L - Depto: Ingenieria - Proyecto vencido hace 1 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2101 - Telefónica Argentina - Parque Patricios - Depto: Obras - Proyecto vencido hace 30 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2103 - Amazon Web Services - Bahía Blanca - Depto: Obras - Proyecto vencido hace 42 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2105 - Santander Río - Puerto Madero - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2107 - Banco Galicia - San Isidro - Depto: Obras - Proyecto vencido hace 58 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2109 - ICBC Argentina - Retiro - Depto: Obras - Proyecto vencido hace 12 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2111 - Banco Provincia - La Plata - Depto: Obras - Proyecto vencido hace 47 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2113 - Unilever - Pilar - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2001 - Bunge Argentina - Puerto General San Martín - Depto: Mantenimiento - Proyecto vencido hace 27 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2003 - Nidera - Villa María - Depto: Mantenimiento - Proyecto vencido hace 37 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2005 - Toepfer - Puerto San Martín - Depto: Mantenimiento - Proyecto vencido hace 21 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2007 - Vicentin - Avellaneda - Depto: Mantenimiento - Proyecto vencido hace 73 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2009 - Aceitera General Deheza - Deheza - Depto: Mantenimiento - Proyecto vencido hace 17 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2011 - Coca-Cola FEMSA - Merlo - Depto: Mantenimiento - Proyecto vencido hace 51 días
+21/07/2026 13:45:54 - WARNING - [VENCIDO] 2013 - Arcor - Arroyito - Depto: Mantenimiento - Proyecto vencido hace 14 días
+21/07/2026 13:45:54 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:45:54
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 1901 - Shell Argentina - Dock Sud - Depto: Ingenieria - Proyecto vencido hace 32 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 1903 - Techint - Siderar San Nicolás - Depto: Ingenieria - Proyecto vencido hace 42 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 1905 - ArcelorMittal - Villa Constitución - Depto: Ingenieria - Proyecto vencido hace 21 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 1907 - Cargill - Bahía Blanca - Depto: Ingenieria - Proyecto vencido hace 78 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 1909 - Loma Negra - Barker - Depto: Ingenieria - Proyecto vencido hace 14 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 1911 - Toyota Argentina - Zárate - Depto: Ingenieria - Proyecto vencido hace 51 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 1913 - General Motors - Alvear - Depto: Ingenieria - Proyecto vencido hace 17 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 1884 - SEGURIDAD S.R.L - Depto: Ingenieria - Proyecto vencido hace 1 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2101 - Telefónica Argentina - Parque Patricios - Depto: Obras - Proyecto vencido hace 30 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2103 - Amazon Web Services - Bahía Blanca - Depto: Obras - Proyecto vencido hace 42 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2105 - Santander Río - Puerto Madero - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2107 - Banco Galicia - San Isidro - Depto: Obras - Proyecto vencido hace 58 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2109 - ICBC Argentina - Retiro - Depto: Obras - Proyecto vencido hace 12 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2111 - Banco Provincia - La Plata - Depto: Obras - Proyecto vencido hace 47 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2113 - Unilever - Pilar - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2001 - Bunge Argentina - Puerto General San Martín - Depto: Mantenimiento - Proyecto vencido hace 27 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2003 - Nidera - Villa María - Depto: Mantenimiento - Proyecto vencido hace 37 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2005 - Toepfer - Puerto San Martín - Depto: Mantenimiento - Proyecto vencido hace 21 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2007 - Vicentin - Avellaneda - Depto: Mantenimiento - Proyecto vencido hace 73 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2009 - Aceitera General Deheza - Deheza - Depto: Mantenimiento - Proyecto vencido hace 17 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2011 - Coca-Cola FEMSA - Merlo - Depto: Mantenimiento - Proyecto vencido hace 51 días
+21/07/2026 13:46:05 - WARNING - [VENCIDO] 2013 - Arcor - Arroyito - Depto: Mantenimiento - Proyecto vencido hace 14 días
+21/07/2026 13:46:05 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:46:05
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 1901 - Shell Argentina - Dock Sud - Depto: Ingenieria - Proyecto vencido hace 32 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 1903 - Techint - Siderar San Nicolás - Depto: Ingenieria - Proyecto vencido hace 42 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 1905 - ArcelorMittal - Villa Constitución - Depto: Ingenieria - Proyecto vencido hace 21 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 1907 - Cargill - Bahía Blanca - Depto: Ingenieria - Proyecto vencido hace 78 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 1909 - Loma Negra - Barker - Depto: Ingenieria - Proyecto vencido hace 14 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 1911 - Toyota Argentina - Zárate - Depto: Ingenieria - Proyecto vencido hace 51 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 1913 - General Motors - Alvear - Depto: Ingenieria - Proyecto vencido hace 17 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 1884 - SEGURIDAD S.R.L - Depto: Ingenieria - Proyecto vencido hace 1 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2101 - Telefónica Argentina - Parque Patricios - Depto: Obras - Proyecto vencido hace 30 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2103 - Amazon Web Services - Bahía Blanca - Depto: Obras - Proyecto vencido hace 42 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2105 - Santander Río - Puerto Madero - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2107 - Banco Galicia - San Isidro - Depto: Obras - Proyecto vencido hace 58 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2109 - ICBC Argentina - Retiro - Depto: Obras - Proyecto vencido hace 12 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2111 - Banco Provincia - La Plata - Depto: Obras - Proyecto vencido hace 47 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2113 - Unilever - Pilar - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2001 - Bunge Argentina - Puerto General San Martín - Depto: Mantenimiento - Proyecto vencido hace 27 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2003 - Nidera - Villa María - Depto: Mantenimiento - Proyecto vencido hace 37 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2005 - Toepfer - Puerto San Martín - Depto: Mantenimiento - Proyecto vencido hace 21 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2007 - Vicentin - Avellaneda - Depto: Mantenimiento - Proyecto vencido hace 73 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2009 - Aceitera General Deheza - Deheza - Depto: Mantenimiento - Proyecto vencido hace 17 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2011 - Coca-Cola FEMSA - Merlo - Depto: Mantenimiento - Proyecto vencido hace 51 días
+21/07/2026 13:48:38 - WARNING - [VENCIDO] 2013 - Arcor - Arroyito - Depto: Mantenimiento - Proyecto vencido hace 14 días
+21/07/2026 13:48:38 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:48:38
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 1901 - Shell Argentina - Dock Sud - Depto: Ingenieria - Proyecto vencido hace 32 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 1903 - Techint - Siderar San Nicolás - Depto: Ingenieria - Proyecto vencido hace 42 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 1905 - ArcelorMittal - Villa Constitución - Depto: Ingenieria - Proyecto vencido hace 21 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 1907 - Cargill - Bahía Blanca - Depto: Ingenieria - Proyecto vencido hace 78 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 1909 - Loma Negra - Barker - Depto: Ingenieria - Proyecto vencido hace 14 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 1911 - Toyota Argentina - Zárate - Depto: Ingenieria - Proyecto vencido hace 51 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 1913 - General Motors - Alvear - Depto: Ingenieria - Proyecto vencido hace 17 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 1884 - SEGURIDAD S.R.L - Depto: Ingenieria - Proyecto vencido hace 1 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2101 - Telefónica Argentina - Parque Patricios - Depto: Obras - Proyecto vencido hace 30 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2103 - Amazon Web Services - Bahía Blanca - Depto: Obras - Proyecto vencido hace 42 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2105 - Santander Río - Puerto Madero - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2107 - Banco Galicia - San Isidro - Depto: Obras - Proyecto vencido hace 58 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2109 - ICBC Argentina - Retiro - Depto: Obras - Proyecto vencido hace 12 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2111 - Banco Provincia - La Plata - Depto: Obras - Proyecto vencido hace 47 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2113 - Unilever - Pilar - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2001 - Bunge Argentina - Puerto General San Martín - Depto: Mantenimiento - Proyecto vencido hace 27 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2003 - Nidera - Villa María - Depto: Mantenimiento - Proyecto vencido hace 37 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2005 - Toepfer - Puerto San Martín - Depto: Mantenimiento - Proyecto vencido hace 21 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2007 - Vicentin - Avellaneda - Depto: Mantenimiento - Proyecto vencido hace 73 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2009 - Aceitera General Deheza - Deheza - Depto: Mantenimiento - Proyecto vencido hace 17 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2011 - Coca-Cola FEMSA - Merlo - Depto: Mantenimiento - Proyecto vencido hace 51 días
+21/07/2026 13:55:15 - WARNING - [VENCIDO] 2013 - Arcor - Arroyito - Depto: Mantenimiento - Proyecto vencido hace 14 días
+21/07/2026 13:55:15 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 13:55:15
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 1901 - Shell Argentina - Dock Sud - Depto: Ingenieria - Proyecto vencido hace 32 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 1903 - Techint - Siderar San Nicolás - Depto: Ingenieria - Proyecto vencido hace 42 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 1905 - ArcelorMittal - Villa Constitución - Depto: Ingenieria - Proyecto vencido hace 21 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 1907 - Cargill - Bahía Blanca - Depto: Ingenieria - Proyecto vencido hace 78 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 1909 - Loma Negra - Barker - Depto: Ingenieria - Proyecto vencido hace 14 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 1911 - Toyota Argentina - Zárate - Depto: Ingenieria - Proyecto vencido hace 51 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 1913 - General Motors - Alvear - Depto: Ingenieria - Proyecto vencido hace 17 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 1884 - SEGURIDAD S.R.L - Depto: Ingenieria - Proyecto vencido hace 1 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2101 - Telefónica Argentina - Parque Patricios - Depto: Obras - Proyecto vencido hace 30 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2103 - Amazon Web Services - Bahía Blanca - Depto: Obras - Proyecto vencido hace 42 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2105 - Santander Río - Puerto Madero - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2107 - Banco Galicia - San Isidro - Depto: Obras - Proyecto vencido hace 58 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2109 - ICBC Argentina - Retiro - Depto: Obras - Proyecto vencido hace 12 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2111 - Banco Provincia - La Plata - Depto: Obras - Proyecto vencido hace 47 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2113 - Unilever - Pilar - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2001 - Bunge Argentina - Puerto General San Martín - Depto: Mantenimiento - Proyecto vencido hace 27 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2003 - Nidera - Villa María - Depto: Mantenimiento - Proyecto vencido hace 37 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2005 - Toepfer - Puerto San Martín - Depto: Mantenimiento - Proyecto vencido hace 21 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2007 - Vicentin - Avellaneda - Depto: Mantenimiento - Proyecto vencido hace 73 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2009 - Aceitera General Deheza - Deheza - Depto: Mantenimiento - Proyecto vencido hace 17 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2011 - Coca-Cola FEMSA - Merlo - Depto: Mantenimiento - Proyecto vencido hace 51 días
+21/07/2026 14:00:00 - WARNING - [VENCIDO] 2013 - Arcor - Arroyito - Depto: Mantenimiento - Proyecto vencido hace 14 días
+21/07/2026 14:00:00 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 14:00:00
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1901 - Shell Argentina - Dock Sud - Depto: Ingenieria - Proyecto vencido hace 32 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1903 - Techint - Siderar San Nicolás - Depto: Ingenieria - Proyecto vencido hace 42 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1905 - ArcelorMittal - Villa Constitución - Depto: Ingenieria - Proyecto vencido hace 21 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1907 - Cargill - Bahía Blanca - Depto: Ingenieria - Proyecto vencido hace 78 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1909 - Loma Negra - Barker - Depto: Ingenieria - Proyecto vencido hace 14 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1911 - Toyota Argentina - Zárate - Depto: Ingenieria - Proyecto vencido hace 51 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1913 - General Motors - Alvear - Depto: Ingenieria - Proyecto vencido hace 17 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1914 - Renault Argentina - Santa Isabel - Depto: Ingenieria - Proyecto vencido hace 1 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 1884 - SEGURIDAD S.R.L - Depto: Ingenieria - Proyecto vencido hace 1 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2101 - Telefónica Argentina - Parque Patricios - Depto: Obras - Proyecto vencido hace 30 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2103 - Amazon Web Services - Bahía Blanca - Depto: Obras - Proyecto vencido hace 42 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2105 - Santander Río - Puerto Madero - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2107 - Banco Galicia - San Isidro - Depto: Obras - Proyecto vencido hace 58 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2109 - ICBC Argentina - Retiro - Depto: Obras - Proyecto vencido hace 12 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2111 - Banco Provincia - La Plata - Depto: Obras - Proyecto vencido hace 47 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2113 - Unilever - Pilar - Depto: Obras - Proyecto vencido hace 21 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2001 - Bunge Argentina - Puerto General San Martín - Depto: Mantenimiento - Proyecto vencido hace 27 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2003 - Nidera - Villa María - Depto: Mantenimiento - Proyecto vencido hace 37 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2005 - Toepfer - Puerto San Martín - Depto: Mantenimiento - Proyecto vencido hace 21 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2007 - Vicentin - Avellaneda - Depto: Mantenimiento - Proyecto vencido hace 73 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2009 - Aceitera General Deheza - Deheza - Depto: Mantenimiento - Proyecto vencido hace 17 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2011 - Coca-Cola FEMSA - Merlo - Depto: Mantenimiento - Proyecto vencido hace 51 días
+21/07/2026 14:11:26 - WARNING - [VENCIDO] 2013 - Arcor - Arroyito - Depto: Mantenimiento - Proyecto vencido hace 14 días
+21/07/2026 14:11:26 - INFO - 
+======================================================================
+RESUMEN DE EJECUCIÓN - 21/07/2026 14:11:26
+======================================================================
+Status: SUCCESS
+Root Folder: 1dMu2WeU3bbzqPEFEAoNySonP1eKTC71u
+Departments: 3
+Master Schedule: 1yHvzhJCsfi1UZ_XtxOnesgaMakNtsNjvkIMP2gaYDgw
+======================================================================
+

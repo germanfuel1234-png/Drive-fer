@@ -1,0 +1,1 @@
+cd "proyecto drive fer" && source ../.venv/bin/activate && python main.py
